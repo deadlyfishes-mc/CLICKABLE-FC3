@@ -117,8 +117,12 @@ add_plugin_systems('CLICKABLE-FC3_Module','*',path,
 	["F-86F Sabre"]			= {enable_options_key_for_unit='dontuseit'},
 	["A-10C_2"]				= {enable_options_key_for_unit='dontuseit'},
 	["TF-51D"]				= {enable_options_key_for_unit='dontuseit'},
+	["Rafale_C"]			= {enable_options_key_for_unit='dontuseit'},
+	["Rafale_M"]			= {enable_options_key_for_unit='dontuseit'},
+	["Rafale_B"]			= {enable_options_key_for_unit='dontuseit'},
+	["Rafale_A_S"]			= {enable_options_key_for_unit='dontuseit'},
 
-	
+
 	}
 )
 
